@@ -3,8 +3,8 @@
 ## Sobre mim | 🙋🏽‍♂️
 - Nome: Clailson dos Santos silva
 - Idade: 18 anos
-- Cursando 1º período de Engenharia da Computação
-- Inglês Básico A2
+- Cursando 2º período de Engenharia da Computação
+- Inglês Intermediário
 - Estou sempre buscando oportunidades para expandir meus horizontes e aprofundar meu conhecimento.
  
 ## Meus perfis nas redes sociais | 🌐
