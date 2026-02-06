@@ -24,7 +24,7 @@
 - 👨‍💻 Development 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)
 
 - 📊 Banco de Dados 
 
